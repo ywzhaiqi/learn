@@ -2,5 +2,5 @@ Getting Started
 
 ```
 $ npm install
-$ npm start
+$ ./ake
 ```
